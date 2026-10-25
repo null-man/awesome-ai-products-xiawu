@@ -183,6 +183,9 @@ This repository aims to provide a comprehensive list of high-quality AI products
 ### Video Tools
 - [Synthesia](https://www.synthesia.io/) - Create AI videos from text.
 - [GrokVideo Studio](https://grokvideogenerator.dev/) - Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 - [RunwayML](https://runwayml.com/) - AI-powered video editing tools.
 - [D-ID](https://www.d-id.com/) - Create talking avatar videos with AI.
 - [HeyGen Labs](https://labs.heygen.com/) - AI video generation platform:
