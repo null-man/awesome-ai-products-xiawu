@@ -26,11 +26,13 @@ This repository aims to provide a comprehensive list of high-quality AI products
 
 ### Image Generation
 - [Midjourney](https://www.midjourney.com/) - Create stunning artwork using text prompts via Discord.
+- [PromptImage](https://promptimage.cloud/) - Free AI image & video studio with a prompt library; signup credits, no card required.
 - [DALL-E](https://openai.com/dall-e-2) - Generate and edit images from natural language descriptions.
 - [Stable Diffusion](https://stability.ai/) - Open-source text-to-image generation model.
 
 ### Design Tools
 - [Canva Magic Studio](https://www.canva.com/magic) - AI-powered design tools for creating professional graphics.
+- [TeslaWraps](https://teslawraps.design/) - Browser Tesla Paint Shop wrap designer with 3D preview and PNG export; core editing free without an account (optional AI credits).
 - [Adobe Firefly](https://www.adobe.com/firefly) - Suite of creative generative AI tools.
 - [Figma AI](https://www.figma.com/) - AI features integrated into the popular design platform.
 - [Codia AI Design](https://codia.ai/) - AI-powered design conversion and generation:
@@ -180,6 +182,7 @@ This repository aims to provide a comprehensive list of high-quality AI products
 
 ### Video Tools
 - [Synthesia](https://www.synthesia.io/) - Create AI videos from text.
+- [GrokVideo Studio](https://grokvideogenerator.dev/) - Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
 - [RunwayML](https://runwayml.com/) - AI-powered video editing tools.
 - [D-ID](https://www.d-id.com/) - Create talking avatar videos with AI.
 - [HeyGen Labs](https://labs.heygen.com/) - AI video generation platform:
